@@ -1,0 +1,2 @@
+require version-baseband=3.0.C1-273473
+require version-vendor=1586952467
